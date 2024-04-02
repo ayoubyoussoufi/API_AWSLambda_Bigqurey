@@ -1,0 +1,6 @@
+version: '3.8'
+
+services:
+  test_data_container:
+    image: test_data
+    container_name: test_data_container

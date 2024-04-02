@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "business-operations-361115",
+  "private_key_id": "50b55c4c1b70ce111d02ddeadeb970c4a1d69a73",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDmK59rYUu41ZxQ\nyQGPIrCPW27U6vD27n1j5IEt8p7QOyLIqoCA6EHnNQp67fbmGzAeTE4JcORzVvsM\nn0O8VQdQ062Hgli3+fw3Rjt+JsrE26/XypnH4+ZWWjZEPlHLLenEhuLC4xvIG8fr\ntFHVSH7HTdZpazT6BxI7xm+RsKJcxB+07d8vMJacPPaKpKh73trDknTtAUXEVmhk\npfNtMLD2RevxmpvlVTnFvFbPbja8ihL9zvWe3In8/N33EDnY3bJyzSdpC70VEJi/\nFz7fSZfUBcL5OESKrwoCi5rs+Leifc74qnkIHkzKIXmz28aVrsJ4R2YuJVpsiHl/\nbrlT/u/tAgMBAAECggEAQZ/vaKDJg64Xzuq4kJRt7bm+fGNuB6GQy7HjaPPTdwBd\nVwRR9i8CV0cGsWz2p73ZttG/sC5pXD9Q/dTM7b36g3+O6uNtoyrZz/Ks1Ld/uaf/\nV1HTDax7SGSZM1TnYjw5egiRT8qL6b6N/jSf3mU4jF+zgcQIyz7H4pYdylanvDW+\nffNyVscbLQQELN/OT7IrepveJNF+qOTV5pXMroCLdchIq1C07T3wHlI3CQZjf5ac\nzXWCUnSgBAKjPzjryCS5ZRdZexbBVE05N/FRR0kO7GKNGsHwuzy0YR6ckHa3pfqG\nnx3JYb1U0zwrzjFk5ojEDTTua6VmQZxMYB2LCo/1+wKBgQD0ld2K6f00WaqpH5Xa\n6+FQ9TmfewgZqa5NkqLcN8GuZ5JKbzZqjUByu7fI489Foxe/sF0jwTEP7WvioIzM\nkJ7DtuM01xhwEKAOTK/SNvy81hDnkyW14NrAibejyYilmqz5hFEF1SJogDO/oixz\n4fehBjbphXVS+vhKwkmovTaCwwKBgQDw6YlzdNMD8cN2wsZ5xvo6LNWX9HmmD3Fh\njpNd2BwdqMi1sFLpxEaL3QAXCcbREWql1UfKLjAsS4088AuaQovd8leqrYMyq6qv\nb5TKXf98bqSkFfHY+qfv35TizI8tAQnakBSVq04rQ1v7EqJhtjvk0IXBGvq2Ld5U\niGKqsnw3jwKBgA2jBXUnUqzGixNe5XYNTMS8x3ey3mK/6S3+DQKGQVA+ChQIW1pZ\ngcxj1v1mZjoVu88+QBMsRFYFAMzj8rW9Inz7B3P8wioNYz8o22y3ECRfMxYWSDX5\n0XiGtSx2oh3Jn/dRf0r59S8qZrg6jIvxf2ME+67NeBsmTw2sA3tbAV0NAoGATs1F\nLaPwBiFFu4oYm+rPHMpfj5XjWMNCZhPZ9l9jSvxTssKbTGXsYYGHrwF+rBJTXS03\nj1WuYj7QUzd9xBayY4YK0QRyntdyPHJ2K/+1O0GBzz5yXnQXDKqIq+sXhjQJwhlQ\n8mgXaKVe5/B/dxDB5KWkqralfYPhbqsyAv3hDdcCgYBfOSYNHxcUIYABdzt4UZn1\n5cfaQ737WS6y/Z6lygxzabYoKo7siUc0IPlmXd1sM0kc7DG7RWHHkQgkEVs2xMWo\nU0c2QysqGpL4R8l+jOFRcCLlfaApyKlOHStrEGS33VJcds8bsg2Idg1J0K0zmemr\noWtcc/RToKM4ovW4XTbpSQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bi-engineer-test-ayoussoufi@business-operations-361115.iam.gserviceaccount.com",
+  "client_id": "105875468861536628702",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bi-engineer-test-ayoussoufi%40business-operations-361115.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
